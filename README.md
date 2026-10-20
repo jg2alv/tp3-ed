@@ -1,4 +1,4 @@
-# Flight Club — Indexed flight filtering and multi-criteria ranking in C++
+# Flight Club: Indexed flight filtering and multi-criteria ranking in C++
 
 Flight Club turns route, budget, availability, and travel-time constraints into a ranked shortlist. Eight AVL attribute indexes locate candidate flights, and each query independently defines how price, duration, and stops should influence result order.
 
